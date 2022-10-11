@@ -1,0 +1,6 @@
+name=input('당신의 이름을 입력해주세요:')
+age=input('나이를 입력해주세요')
+work=input('직업을 입력해주세요')
+leave=input('사는곳을 입력해주세요')
+print('당신의 이름은{},나이는 {}살 직업은 {},사는곳은 {}입니다'.format(name,age,work,leave))    
+print('당신의 이름은',name,'나이는',age,'살 직업은',work,'사는곳은' ,leave,'입니다')    
